@@ -1,6 +1,7 @@
 # VirtuaQuario
-<img width="315" height="284" alt="virtuaquario" src="https://github.com/user-attachments/assets/c980d080-99fd-42c7-a9f3-8254a1d436f3" />
+<img width="315" height="284" alt="virtuaquario" src="https://github.com/user-attachments/assets/c260ba75-eee2-40f0-b08d-3a19e8f04c21" />
 <br>
+
 <br>
 --- ITA --- <br>
 Un semplice simulatore di acquari per GameBoy Color.
