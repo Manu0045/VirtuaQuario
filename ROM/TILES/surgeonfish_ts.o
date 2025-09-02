@@ -1,0 +1,37 @@
+XL4
+H 9 areas 3 global symbols
+M surgeonfish_ts
+S .__.ABS. Def00000000
+A _CODE size 66 flags 0 addr 0
+S _surgeonfish_ts Def00000006
+S _surgeonfish_tsCGB Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 00 00 00 00 00 00
+R 00 00 00 00
+T 06 00 00 00
+R 00 00 00 00
+T 06 00 00 00 00 00 00 00 00 00 26 DB 24 DB 00 00
+R 00 00 00 00
+T 12 00 00 00 00 00 00 00 00 00 00 06 C8 C7 2A D7
+R 00 00 00 00
+T 1E 00 00 00 28 D7 C8 C7 00 06 00 00 00 00 0C 00
+R 00 00 00 00
+T 2A 00 00 00 1F 00 10 0F 18 07 98 07 50 8F 20 DF
+R 00 00 00 00
+T 36 00 00 00 00 00 00 00 C0 00 60 80 70 80 10 E0
+R 00 00 00 00
+T 42 00 00 00 58 E0 4C B0 20 DF 30 CF 58 87 88 07
+R 00 00 00 00
+T 4E 00 00 00 08 07 0F 00 00 00 00 00 03 FC 0C F0
+R 00 00 00 00
+T 5A 00 00 00 18 E0 30 C0 E0 00 80 00 00 00 00 00
+R 00 00 00 00

@@ -1,0 +1,29 @@
+XL4
+H 9 areas 3 global symbols
+M bubbles_ts
+S .__.ABS. Def00000000
+A _CODE size 33 flags 0 addr 0
+S _bubbles_ts Def00000003
+S _bubbles_tsCGB Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 01 00 00
+R 00 00 00 00
+T 03 00 00 00
+R 00 00 00 00
+T 03 00 00 00 BF 40 5F E0 B3 4C ED 1E ED 1E B3 4C
+R 00 00 00 00
+T 0F 00 00 00 5F E0 BF 40 9F 60 6F F0 6B F4 95 6E
+R 00 00 00 00
+T 1B 00 00 00 9B 64 6F F0 6F F0 9F 60 00 00 00 00
+R 00 00 00 00
+T 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+R 00 00 00 00

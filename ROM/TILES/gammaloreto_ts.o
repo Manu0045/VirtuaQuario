@@ -1,0 +1,37 @@
+XL4
+H 9 areas 3 global symbols
+M gammaloreto_ts
+S .__.ABS. Def00000000
+A _CODE size 66 flags 0 addr 0
+S _gammaloreto_tsCGB Def00000000
+S _gammaloreto_ts Def00000006
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 00 00 00 00 00 00
+R 00 00 00 00
+T 06 00 00 00
+R 00 00 00 00
+T 06 00 00 00 00 00 00 00 00 00 F2 0F F0 0F 00 00
+R 00 00 00 00
+T 12 00 00 00 00 00 00 00 00 00 00 00 C0 CE E2 1F
+R 00 00 00 00
+T 1E 00 00 00 E0 1F C0 CE 00 00 00 00 00 00 00 00
+R 00 00 00 00
+T 2A 00 00 00 00 00 00 00 BF BF FE 61 FF 00 FF 00
+R 00 00 00 00
+T 36 00 00 00 00 00 00 00 00 00 00 00 F8 F8 06 FE
+R 00 00 00 00
+T 42 00 00 00 09 FF 01 FF FF 00 FE 61 9F 9F 00 00
+R 00 00 00 00
+T 4E 00 00 00 00 00 00 00 00 00 00 00 01 FF 06 FE
+R 00 00 00 00
+T 5A 00 00 00 F8 F8 00 00 00 00 00 00 00 00 00 00
+R 00 00 00 00

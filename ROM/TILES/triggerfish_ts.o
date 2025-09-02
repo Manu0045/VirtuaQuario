@@ -1,0 +1,37 @@
+XL4
+H 9 areas 3 global symbols
+M triggerfish_ts
+S .__.ABS. Def00000000
+A _CODE size 66 flags 0 addr 0
+S _triggerfish_ts Def00000006
+S _triggerfish_tsCGB Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 00 00 00 00 00 00
+R 00 00 00 00
+T 06 00 00 00
+R 00 00 00 00
+T 06 00 00 00 00 00 00 00 00 00 26 DB 24 DB 00 00
+R 00 00 00 00
+T 12 00 00 00 00 00 00 00 00 00 00 03 C2 CD 2E D3
+R 00 00 00 00
+T 1E 00 00 00 2E D1 C6 C9 00 06 00 00 00 00 01 01
+R 00 00 00 00
+T 2A 00 00 00 00 00 01 01 01 01 02 83 24 67 00 3F
+R 00 00 00 00
+T 36 00 00 00 00 00 E0 E0 90 F0 38 F8 C4 FC 0E F2
+R 00 00 00 00
+T 42 00 00 00 1F E9 1F E1 00 3F 24 67 02 83 01 01
+R 00 00 00 00
+T 4E 00 00 00 01 01 03 03 00 00 00 00 1F E1 1F E1
+R 00 00 00 00
+T 5A 00 00 00 0E F2 E4 FC 38 F8 F0 F0 00 00 00 00
+R 00 00 00 00
